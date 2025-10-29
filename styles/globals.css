@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom styles below if you want */
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+}
